@@ -4,4 +4,5 @@
 
 ### List: 
 
-- efrsfes
+- Finish physics coursework
+- 
